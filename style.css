@@ -4,7 +4,7 @@ h1{font-size: 50px;}
 .title-name-color{
     color: orange;
 }
-section{
+.flex-container{
     display: flex;
     margin-bottom: 100px;
 }

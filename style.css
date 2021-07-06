@@ -30,3 +30,30 @@ padding-left: 6%;}
     background-repeat: no-repeat;
     background-position: right;
 }
+.dev-experiance{
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 40%;
+    border-radius: 5px;
+    padding-left: 5%;
+    
+}
+.experiance{
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+}
+#web-dev-full{
+    border-left: 7px solid;
+    border-image: linear-gradient(purple,tomato );
+    border-image-slice: 1;
+}
+#web-dev-baby{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan );
+    border-image-slice: 1;
+    
+}
+footer p{
+text-align: center;
+}
